@@ -1,0 +1,39 @@
+{
+  "outputDir": "public/linkedin-cards",
+  "cards": [
+    {
+      "slug": "safrinha-no-cerrado",
+      "route": "/artigos/safrinha-no-cerrado/",
+      "eyebrow": "Análise de Mercado",
+      "kicker": "Agronegócio",
+      "title": "Safrinha no Cerrado: Soberania do Milho e Ascensão do Sorgo",
+      "summary": "Panorama editorial sobre segunda safra, risco climático, rentabilidade e o avanço do sorgo como eixo de resiliência no campo.",
+      "readingTime": "5 min de leitura",
+      "palette": {
+        "bg": "#eef6ef",
+        "bgAccent": "#d7a243",
+        "primary": "#1f8a4d",
+        "secondary": "#10261a",
+        "muted": "#55675a",
+        "pillBg": "#ddf5e6"
+      }
+    },
+    {
+      "slug": "impacto-geopolitico-ira-agro-brasileiro",
+      "route": "/artigos/impacto-geopolitico-ira-agro-brasileiro/",
+      "eyebrow": "Alerta de Mercado",
+      "kicker": "Geopolítica",
+      "title": "Impacto Geopolítico: Conflito no Irã e o Agro Brasileiro",
+      "summary": "Leitura tática sobre petróleo, fertilizantes, logística global e os reflexos de um choque no Golfo Pérsico sobre custos e exportações.",
+      "readingTime": "Perspectiva trimestral",
+      "palette": {
+        "bg": "#fff5f6",
+        "bgAccent": "#f0b24b",
+        "primary": "#b91c1c",
+        "secondary": "#1f2937",
+        "muted": "#6b5c62",
+        "pillBg": "#ffe3e5"
+      }
+    }
+  ]
+}

@@ -2,6 +2,10 @@
   "name": "articles-clean",
   "private": true,
   "scripts": {
-    "dev": "node server.js"
+    "dev": "node server.js",
+    "cards": "node scripts/generate-linkedin-cards.js"
+  },
+  "devDependencies": {
+    "sharp": "^0.34.5"
   }
 }
