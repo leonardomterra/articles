@@ -1,0 +1,7 @@
+{
+  "name": "articles-clean",
+  "private": true,
+  "scripts": {
+    "dev": "node server.js"
+  }
+}
